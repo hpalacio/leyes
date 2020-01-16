@@ -288,7 +288,7 @@ De los principios rectores de la política social y económica
 1. Los poderes públicos aseguran la protección social, económica y jurídica de la familia.
 2. Los poderes públicos aseguran, asimismo, la protección integral de los hijos, iguales éstos ante la ley con independencia de su filiación, y de las madres, cualquiera que sea su estado civil.
 La ley posibilitará la investigación de la paternidad.
-3. Los padres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda.
+3. Tanto los padres como las madres deben prestar asistencia de todo orden a los hijos habidos dentro o fuera del matrimonio, durante su minoría de edad y en los demás casos en que legalmente proceda.
 4. Los niños gozarán de la protección prevista en los acuerdos internacionales que velan por sus derechos.
 
 ===== Artículo 40
@@ -342,7 +342,7 @@ Los poderes públicos promoverán las condiciones para la participación libre y
 
 ===== Artículo 49
 
-Los poderes públicos realizarán una política de previsión, tratamiento, rehabilitación e integración de los disminuidos físicos, sensoriales y psíquicos a los que prestarán la atención especializada que requieran y los ampararán especialmente para el disfrute de los derechos que este Título otorga a todos los ciudadanos.
+Los poderes públicos realizarán una política de previsión, tratamiento, rehabilitación e integración de los discapacitados físicos, sensoriales y psíquicos a los que prestarán la atención especializada que requieran y los ampararán especialmente para el disfrute de los derechos que este Título otorga a todos los ciudadanos.
 
 ===== Artículo 50
 
@@ -396,7 +396,7 @@ De la Corona
 ===== Artículo 56
 
 1. El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.
-2. Su título es el de Rey de España y podrá utilizar los demás que correspondan a la Corona.
+2. Su título es el de Rey o Reina de España y podrá utilizar los demás que correspondan a la Corona.
 3. La persona del Rey es inviolable y no está sujeta a responsabilidad.
 Sus actos estarán siempre refrendados en la forma establecida en el artículo 64, careciendo de validez sin dicho refrendo, salvo lo dispuesto en el artículo 65, 2.
 
@@ -404,14 +404,14 @@ Sus actos estarán siempre refrendados en la forma establecida en el artículo 6
 
 1. La Corona de España es hereditaria en los sucesores de S.M. Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.
 La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.
-2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.
+2. El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tendrá la dignidad de Príncipe o Princesa de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona de España.
 3. Extinguidas todas las líneas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España.
 4. Aquellas personas que teniendo derecho a la sucesión en el trono contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes Generales, quedarán excluidas en la sucesión a la Corona por sí y sus descendientes.
 5. Las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una ley orgánica.
 
 ===== Artículo 58
 
-La Reina consorte o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.
+La consorte del Rey o el consorte de la Reina no podrán asumir funciones constitucionales, salvo lo dispuesto para la Regencia.
 
 ===== Artículo 59
 
