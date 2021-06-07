@@ -31,6 +31,10 @@ En _GitHub_, es tan sencillo como ir a la link:https://github.com/hpalacio/leyes
 
 image::img/diff-github-articulo13.png[]
 
+Como historia para un repositorio no parece gran cosa, pero supongo que eso dice mucho de la buena redacción de la Constitución.
+
+image::img/git-ls-constitucion.png[]
+
 === Ver propuestas de cambio
 
 Cuando algún organismo o partido político sugiera algún cambio en la Constitución Española, puedo publicarlo como un _Pull request_, que es como llamamos los programadores a las solicitudes de cambio de código.
