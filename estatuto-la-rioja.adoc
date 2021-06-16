@@ -4,35 +4,37 @@ A todos los que la presente vieren y entendieren,
 
 Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley orgánica:
 
-TITULO PRELIMINAR
+== TITULO PRELIMINAR
 
-Artículo primero.
+===== Artículo primero.
 
 Uno. La Rioja, entidad regional histórica dentro del Estado español, se constituye en Comunidad Autónoma para el ejercicio su autogobierno, de acuerdo con la Constitución y el presente Estatuto, que es su norma institucional básica.
 
 Dos. La Comunidad Autónoma de La Rioja asume el gobierno y la administración autónomos de la región. Sus poderes emanan del pueblo y son ejercidos de acuerdo con la Constitución y el presente Estatuto.
 
-Artículo segundo.
+===== Artículo segundo.
 
 El territorio de la Comunidad Autónoma es el de los municipios comprendidos dentro de los límites administrativos de la actual provincia de La Rioja.
 
-Artículo tercero.
+===== Artículo tercero.
 
 La bandera de La Rioja es la formada por cuatro franjas horizontales y de igual tamaño, de los colores rojo, blanco, verde y amarillo.
 
-Artículo cuarto.
+===== Artículo cuarto.
 
 La sede de los órganos de la Comunidad Autónoma de La Rioja es la ciudad de Logroño.
 
-Artículo quinto.
+===== Artículo quinto.
 
 La Comunidad Autónoma de La Rioja estructurará su organización territorial en municipios y comarcas.
-Artículo sexto.
+
+===== Artículo sexto.
 
 Uno. A los efectos del presente Estatuto gozan de la condición de riojanos los españoles que, según las Leyes del Estado, tengan residencia administrativa en cualquiera de los municipios de la Comunidad Autónoma de La Rioja.
 
 Dos. Como riojanos, gozan de los derechos políticos definidos en este Estatuto los ciudadanos españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en La Rioja y acrediten esta condición en el correspondiente Consulado de España. Gozarán también de estos derechos sus descendientes inscritos como españoles, si así lo solicitan, en la forma que determine la legislación del Estado.
-Artículo séptimo.
+
+===== Artículo séptimo.
 
 Uno. Los ciudadanos de La Rioja son titulares de los derechos y deberes fundamentales establecidos en la Constitución.
 
@@ -42,15 +44,15 @@ Tres. La Comunidad Autónoma impulsará aquellas acciones que tiendan a mejorar 
 
 Cuatro. Igualmente, la Comunidad Autónoma promoverá la colaboración con las colectividades de riojanos asentadas fuera de su territorio, con arreglo a lo dispuesto en el presente Estatuto y en la legislación general del Estado.
 
-TITULO PRIMERO
+== TITULO PRIMERO
 
 De las competencias de la Comunidad Autónoma
 
-CAPITULO PRIMERO
+=== CAPITULO PRIMERO
 
 De las competencias exclusivas
 
-Artículo octavo.
+===== Artículo octavo.
 
 Uno. Corresponde a la Comunidad Autónoma de La Rioja la competencia exclusiva en las siguientes materias:
 
@@ -74,7 +76,7 @@ Nueve) La caza, la pesca fluvial y la acuicultura.
 
 Diez) El régimen de ferias y mercados interiores.
 
-Once) La artesanía.
+Once) La artesania.
 
 Doce) El fomento de la cultura y de la investigación, con especial atención a las manifestaciones regionales.
 
@@ -93,11 +95,12 @@ Dieciocho) La asistencia y el bienestar social, incluida la política juvenil.
 Diecinueve) Los aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
 
 Dos. En el ejercicio de estas competencias corresponde la Comunidad Autónoma de La Rioja la potestad legislativa, la potestad reglamentaria y la función ejecutiva, que ejercerá respetando, en todo caso, lo dispuesto en la Constitución.
-CAPITULO II
+
+=== CAPITULO II
 
 Del desarrollo legislativo y ejecución de competencias
 
-Artículo noveno.
+===== Artículo noveno.
 
 En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad Autónoma de La Rioja el desarrollo legislativo y la ejecución en las siguientes materias:
 
@@ -121,11 +124,11 @@ Nueve) La coordinación hospitalaria en general.
 
 Diez) La estadística para los fines y competencias de la Comunidad Autónoma.
 
-CAPITULO III
+=== CAPITULO III
 
 De la ejecución de la legislación del Estado
 
-Artículo diez.
+===== Artículo diez.
 
 Uno. Corresponde a la Comunidad Autónoma de La Rioja ajustándose a los términos que establezcan las leyes y, en su caso, a las normas reglamentarias que para su desarrollo dicte el Estado, la función ejecutiva en las siguientes materias:
 
@@ -141,11 +144,11 @@ Cinco) La gestión de los museos, bibliotecas y archivos de titularidad estatal,
 
 Dos. Lo dispuesto en los apartados del número anterior de este artículo se entiende sin perjuicio y en cuanto no se oponga al artículo ciento cuarenta y nueve de la Constitución.
 
-CAPITULO IV
+=== CAPITULO IV
 
 De la asunción de otras competencias
 
-Artículo once.
+===== Artículo once.
 
 Uno. La Comunidad Autónoma de La Rioja ejercerá también competencias, en los términos que a continuación se señalan, en las siguientes materias u otras que excedan de lo previsto en el artículo ciento cuarenta y ocho punto uno de la Constitución:
 
@@ -172,27 +175,30 @@ Primero.- Transcurridos los cinco años previstos en el artículo ciento cuarent
 Segundo.- A través de los procedimientos establecidos en los números uno y dos del artículo ciento cincuenta de la Constitución, bien a iniciativa de la Diputación General de La Rioja bien a propuesta del Gobierno de la Nación, del Senado o del Congreso de los Diputados.
 
 Tanto en uno como en otro procedimiento la Ley Orgánica sería para las competencias que pasaran a ser ejercidas por la Comunidad Autónoma y los términos en que deban llevarse a cabo.
-Artículo doce.
+
+===== Artículo doce.
 
 En relación con las enseñanzas universitarias, la Comunidad Autónoma de la Rioja asumirá las competencias y funciones que puedan corresponderle en el marco de la legislación general o, en su caso, de las delegaciones que pudiendo producirse fomentando en ambos casos, y en su ámbito, la investigación y cuantas actividades universitarias favorezcan la promoción cultural de sus habitantes.
-Artículo trece.
+
+===== Artículo trece.
 
 En materia de medios audiovisuales de comunicación social del Estado, la Comunidad Autónoma de La Rioja ejercerá todas las potestades y competencias que le correspondan en los términos y casos establecidos en la legislación estatal sobre radiodifusión y televisión.
 
-CAPITULO V
+=== CAPITULO V
 
 De la atribución de las competencias que corresponden a la Diputación Provincial
 
-Artículo catorce.
+===== Artículo catorce.
 
 La Comunidad Autónoma de La Rioja asume desde su constitución todas las competencias, medios y recursos que, según las leyes, correspondan a la Diputación Provincial de La Rioja.
 
 Los órganos de representación y gobierno de la Diputación Provincial establecidos por la legislación de régimen local, quedan sustituidos en la provincia de La Rioja por los propios de la Comunidad Autónoma, en los términos de este Estatuto. La Diputación General de La Rioja determinará, según su naturaleza, la distribución de las competencias de la Diputación Provincial entre los distintos órganos de la Comunidad Autónoma de La Rioja, previstos en el artículo dieciséis de este Estatuto.
-CAPITULO VI
+
+=== CAPITULO VI
 
 De los convenios con otras Comunidades Autónomas
 
-Artículo quince.
+===== Artículo quince.
 
 Uno. La Comunidad Autónoma de La Rioja podrá celebrar convenios con otras Comunidades Autónomas o Territorios de Régimen Foral para la gestión y prestación de los servicios propios de su competencia, de acuerdo con lo establecido en el artículo ciento cuarenta y cinco punto dos de la Constitución.
 
@@ -200,20 +206,21 @@ Dos. Una vez aprobados los convenios, se comunicarán a las Cortes Generales y e
 
 Tres. La Comunidad Autónoma de La Rioja podrá establecer también otros acuerdos de cooperación con Comunidades Autónomas o Territorios de Régimen Foral, previa autorización de las Cortes Generales.
 
-TITULO II
+== TITULO II
 
 De los órganos de la Comunidad Autónoma de La Rioja
 
-Artículo dieciséis.
+===== Artículo dieciséis.
 
 Uno. Los órganos de la Comunidad Autónoma de La Rioja son la Diputación General, el Consejo de Gobierno y su Presidente.
 
 Dos. Las leyes de la Comunidad Autónoma ordenarán su funcionamiento de acuerdo con la Constitución y el presente Estatuto.
-CAPITULO PRIMERO
+
+=== CAPITULO PRIMERO
 
 De la Diputación General
 
-Artículo diecisiete.
+===== Artículo diecisiete.
 
 Uno. La Diputación General, que representa al pueblo de La Rioja, es el órgano legislativo de la Comunidad Autónoma, que de conformidad con la Constitución, el presente Estatuto y el resto del ordenamiento jurídico, ejerce las siguientes funciones:
 
@@ -249,7 +256,7 @@ Dos. La Diputación General de La Rioja es inviolable.
 
 Tres. La Diputación General podrá delegar su potestad legislativa en el Consejo de Gobierno, en los términos del presente Estatuto y con iguales requisitos a los establecidos en los artículos ochenta y dos, ochenta y tres y ochenta y cuatro de la Constitución. Igualmente podrá delegar, en su caso, su potestad de desarrollo legislativo en el Consejo de Gobierno, fijando las directrices, plazos y controles que considere pertinentes.
 
-Artículo dieciocho.
+===== Artículo dieciocho.
 
 Uno. La Diputación General estará constituida por el número de Diputados que determine una ley de la Comunidad Autónoma, con un mínimo de treinta y dos y un máximo de cuarenta elegidos por sufragio universal, libre, igual, directo y secreto.
 
@@ -269,7 +276,7 @@ Siete. Los Diputados regionales no estarán sujetos a mandato imperativo.
 
 Ocho. Los miembros de la Diputación General no percibirán retribución fija por su cargo representativo, sino únicamente las dietas que se determinen por el ejercicio del mismo.
 
-Artículo diecinueve.
+===== Artículo diecinueve.
 
 Uno. La Diputación General elegirá de entre sus miembros si un Presidente y a la Mesa.
 
@@ -289,21 +296,21 @@ Siete. Para la deliberación y adopción de acuerdos la Diputación General debe
 
 Ocho. El voto es personal e indelegable.
 
-Artículo veinte.
+===== Artículo veinte.
 
 La iniciativa legislativa y reglamentaria, en el ámbito reconocido en el presente capítulo a la Comunidad Autónoma, corresponde a los Diputados, al Consejo de Gobierno y al pueblo riojano en los términos que establezca una Ley de la Diputación General de La Rioja.
 
-Artículo veintiuno.
+===== Artículo veintiuno.
 
 Uno. Las Leyes serán promulgadas en nombre del Rey por el Presidente de la Comunidad Autónoma, que ordenará su inmediata publicación en el «Boletín oficial de La Rioja» y en el «Boletín Oficial del Estado». El mismo sistema de publicación regirá para los Reglamentos que apruebe la Comunidad Autónoma respecto a las materias en que le corresponda el desarrollo de la legislación del Estado.
 
 Dos. Las Leyes y Reglamentos a que se refiere el párrafo anterior entrarán en vigor a los veinte días siguientes a su última publicación, salvo que la propia norma establezca otro plazo.
 
-CAPITULO II
+=== CAPITULO II
 
 Del Presidente de la Comunidad Autónoma de La Rioja
 
-Artículo veintidós.
+===== Artículo veintidós.
 
 Uno. El Presidente ostenta la representación de la Comunidad Autónoma de La Rioja, preside, dirige, coordina la actuación del Consejo de Gobierno y ejerce la representación ordinaria del Estado en el territorio autónomo.
 
@@ -312,11 +319,12 @@ Dos. El Presidente de la Comunidad Autónoma será elegido por la Diputación Ge
 Tres. El Presidente cesa por dimisión, fallecimiento, incapacidad, disolución de la Diputación General, pérdida de la confianza otorgada o censura de la Diputación General.
 
 Cuatro. Una Ley de la Comunidad Autónoma regulará el estatuto personal del Presidente, sus atribuciones y responsabilidad política.
-CAPITULO III
+
+=== CAPITULO III
 
 Del Consejo de Gobierno
 
-Artículo veintitrés.
+===== Artículo veintitrés.
 
 Uno. El Consejo de Gobierno, como órgano colegiado, ejerce las funciones de gobierno y administración de la Comunidad Autónoma, correspondiéndole en particular:
 
@@ -329,7 +337,8 @@ c) Ejecutar, en general, cuantas funciones se deriven del ordenamiento jurídico
 Dos. El Consejo de Gobierno se compone del Presidente de la Comunidad Autónoma y los Consejeros, que no requerirán la condición de Diputados regionales y que serán nombrados y cesados por aquel, quien también determinará su número, que, en todo caso, no podrá exceder de diez.
 
 Tres. Una Ley de la Comunidad Autónoma regulará el estatuto personal de los miembros del Consejo de Gobierno y sus relaciones con los demás órganos de la Comunidad Autónoma dentro de las normas del presente Estatuto y de la Constitución.
-Artículo veinticuatro.
+
+===== Artículo veinticuatro.
 
 Uno. El Consejo de Gobierno responde políticamente ante la Diputación General de forma solidaria, sin perjuicio de la responsabilidad directa de cada uno de sus miembros por su propia gestión.
 
@@ -340,15 +349,16 @@ Tres. La Diputación General puede exigir la responsabilidad política del Conse
 La moción de censura deberá ser propuesta al menos, por el quince por ciento de los Diputados, habrá de incluir un candidato a la Presidencia de la Comunidad Autónoma: no podrá ser votada hasta que transcurran cinco días desde su presentación, pudiendo, en este plazo, presentarse mociones alternativas, y, si no fuere aprobada por la Diputación General, ninguno de los signatarios podrá presentar otra en el plazo de seis meses.
 
 Cuatro. El Consejo de Gobierno cesará en los mismos casos que su Presidente. No obstante, aquél continuará en funciones hasta la toma de posesión del nuevo Consejo.
-TITULO III
+
+== TITULO III
 
 De la administración y régimen jurídico
 
-Artículo veinticinco.
+===== Artículo veinticinco.
 
 Corresponde a la Comunidad Autónoma la creación y estructuración de su propia Administración pública dentro de los principios generales y normas básicas del Estado.
 
-Artículo veintiséis.
+===== Artículo veintiséis.
 
 En los términos previstos en los artículos quinto y noveno uno, del presente Estatuto, se regulará por Ley de la Comunidad Autónoma de La Rioja:
 
@@ -356,15 +366,15 @@ Uno. El reconocimiento y delimitación de las comarcas.
 
 Dos. La creación de agrupaciones de municipios con fines específicos.
 
-Artículo veintisiete.
+===== Artículo veintisiete.
 
 Los reglamentos y demás disposiciones y actos de eficacia general emanados del Consejo de Gobierno y de la Administración de aquélla serán en todo caso, publicados en el «Boletín Oficial de La Rioja».
 
-Artículo veintiocho.
+===== Artículo veintiocho.
 
 La responsabilidad de la Comunidad Autónoma de La Rioja y de sus autoridades y funcionarios se exigirá en los mismos términos y casos que establezca la legislación del Estado en esta materia.
 
-Artículo veintinueve.
+===== Artículo veintinueve.
 
 Uno. Las Leyes de la Comunidad Autónoma solamente están sometidas al control de constitucionalidad que ejerce el Tribunal Constitucional.
 
@@ -374,7 +384,7 @@ Tres. Las normas reglamentarias y los actos y acuerdos emanados de los órganos 
 
 Cuatro. Respecto de la revisión de los actos en vía administrativa se estará a lo dispuesto en las correspondientes Leyes del Estado.
 
-Artículo treinta.
+===== Artículo treinta.
 
 Uno. En el ejercicio de sus competencias, la Comunidad Autónoma de La Rioja gozará de las siguientes potestades y prerrogativas de la Administración del Estado:
 
@@ -394,19 +404,19 @@ Tres. La Comunidad Autónoma de La Rioja estará exceptuada de la obligación de
 
 Cuatro. No se admitirán interdictos contra las actuaciones de la Comunidad Autónoma de La Rioja en materia de su competencia y de acuerdo con el procedimiento legalmente establecido.
 
-Artículo treinta y uno.
+===== Artículo treinta y uno.
 
 El control económico y presupuestario de la Comunidad Autónoma se ejercerá por el Tribunal de Cuentas conforme a lo dispuesto en los artículos ciento treinta y seis y ciento cincuenta y tres, d), de la Constitución.
 
-TITULO IV
+== TITULO IV
 
 De la financiación de la Comunidad
 
-CAPITULO PRIMERO
+=== CAPITULO PRIMERO
 
 De la Hacienda
 
-Artículo treinta y dos.
+===== Artículo treinta y dos.
 
 La Comunidad Autónoma de La Rioja contará para el desempeño de sus competencias y funciones con hacienda dominio público y patrimonio propios. Ejercerá la Autonomía financiera de acuerdo con la Constitución, el presente Estatuto, la Ley Orgánica de Financiación de las Comunidades Autónomas y demás normas de desarrollo.
 Artículo treinta y tres.
@@ -421,7 +431,7 @@ c) Los bienes y derechos que adquiera por cualquier título jurídico.
 
 Dos. La Comunidad Autónoma tiene capacidad para adquirir, poseer, administrar y enajenar los bienes que integran su patrimonio.
 
-Artículo treinta y cuatro.
+===== Artículo treinta y cuatro.
 
 Los recursos de la Comunidad Autónoma estarán constituidos por:
 
@@ -445,7 +455,7 @@ i) Transferencias del Fondo de Compensación Interterritorial.
 
 j) Cuantos otros recursos se le atribuyan de acuerdo con las Leyes.
 
-Artículo treinta y cinco.
+===== Artículo treinta y cinco.
 
 Uno. La Comunidad Autónoma regulará por sus órganos competentes, según lo establecido en el presente Estatuto y normas que lo desarrollen, las siguientes materias:
 
@@ -467,7 +477,7 @@ h) Las demás funciones y competencias que le atribuyan las Leyes.
 
 Dos. Deberán adoptar necesariamente la forma de ley las cuestiones referidas en los apartados b), c), d) y e) y aquellas otras que así lo requiera el ordenamiento jurídico.
 
-Artículo treinta y seis.
+===== Artículo treinta y seis.
 
 Uno. La gestión, liquidación, recaudación e inspección de los tributos propios corresponderá a la Comunidad Autónoma, la cual dispondrá de plenas atribuciones para la organización y ejecución de dichas tareas, sin perjuicio de la colaboración que pueda establecerse con la Administración Tributaria del Estado, especialmente cuando así lo exija la naturaleza del tributo.
 
@@ -475,7 +485,7 @@ Dos. En caso de impuestos cedidos, la Comunidad Autónoma asumirá, por delegaci
 
 Tres. La gestión, recaudación, liquidación, inspección y revisión, en su caso, de los demás impuestos del Estado recaudados en la Comunidad Autónoma de La Rioja, corresponderá a la Administración Tributaria del Estado, sin perjuicio de la delegación que aquella pueda recibir de ésta y de la colaboración que pueda establecerse, especialmente cuando así lo exija la naturaleza del tributo.
 
-Artículo treinta y siete.
+===== Artículo treinta y siete.
 
 Uno. El conocimiento de las distintas reclamaciones interpuestas contra los actos dictados por las respectivas Administraciones en materia tributaria, tanto si en ellas se suscitan cuestiones de hecho como de derecho, corresponderá:
 
@@ -485,14 +495,15 @@ b) Cuando se trate de tributos cedidos o de recargos establecidos sobre tributos
 
 Dos. Las resoluciones de los órganos económico-administrativos, tanto del Estado como de la Comunidad Autónoma de La Rioja, podrán ser, en todo caso, objeto de recurso contencioso-administrativo en los términos establecidos en la normativa reguladora de esta jurisdicción.
 
-Artículo treinta y ocho.
+===== Artículo treinta y ocho.
 
 La Comunidad Autónoma gozará del tratamiento fiscal que la Ley establezca para el Estado.
-CAPITULO II
+
+=== CAPITULO II
 
 Presupuestos
 
-Artículo treinta y nueve.
+===== Artículo treinta y nueve.
 
 Uno. Corresponde al Consejo de Gobierno la elaboración del presupuesto de la Comunidad Autónoma y a la Diputación General su examen, enmienda, aprobación y control.
 
@@ -503,10 +514,12 @@ Tres. El Presupuesto tendrá carácter anual, incluirá la totalidad de los gast
 Cuatro. Si el presupuesto no se aprobará antes del primer día del ejercicio fiscal correspondiente, se considerará prorrogado el del ejercicio anterior hasta la aprobación del nuevo.
 
 Cinco. El presupuesto tendrá carácter de ley y en él no se podrán crear nuevos tributos. Podrá, sin embargo, modificar los existentes cuando una Ley Tributaria sustantiva así lo prevea.
-CAPITULO III
+
+=== CAPITULO III
+
 Deuda pública, crédito y política financiera
 
-Artículo cuarenta.
+===== Artículo cuarenta.
 
 Uno. La Comunidad Autónoma de La Rioja podrá realizar operaciones de crédito por plazo inferior a un año, con objeto de cubrir sus necesidades de tesorería.
 
@@ -514,7 +527,7 @@ Dos. La Comunidad Autónoma de La Rioja podrá concertar operaciones de crédito
 
 Tres. La deuda pública de la Comunidad Autónoma de La Rioja y los títulos-valores de carácter equivalente estarán sujetos a lo dispuesto en la Ley Orgánica de Financiación de las Comunidades Autónomas y, en su defecto, a las mismas normas que regulen la deuda pública del Estado, gozando de iguales beneficios y condiciones que esta.
 
-Artículo cuarenta y uno.
+===== Artículo cuarenta y uno.
 
 Uno. La Comunidad Autónoma de La Rioja, de acuerdo con lo que establezcan las leyes del Estado, designará sus propios representantes en los organismos económicos, las instituciones financieras y de ahorro y las empresas públicas del Estado cuya competencia se extienda al territorio de La Rioja.
 
@@ -526,11 +539,11 @@ Cuatro. La Comunidad Autónoma de La Rioja queda facultada para constituir o par
 
 Cinco. La Comunidad Autónoma de La Rioja, dentro de las normas generales del Estado, podrá adoptar medidas que posibiliten la captación y afirmación del ahorro regional.
 
-TITULO V
+== TITULO V
 
 De la reforma del Estatuto
 
-Artículo cuarenta y dos.
+===== Artículo cuarenta y dos.
 
 La reforma del Estatuto se ajustará al siguiente procedimiento:
 
@@ -540,11 +553,11 @@ Dos. La propuesta de reforma requerirá, en todo caso, la aprobación de la Dipu
 
 Tres. Si la propuesta de reforma no es aprobada por la Diputación General de La Rioja o por las Cortes Generales, no podrá ser sometida nuevamente a debate o votación de la Diputación General hasta que haya transcurrido un año, a contar desde la fecha de la iniciativa.
 
-Artículo cuarenta y tres.
+===== Artículo cuarenta y tres.
 
 La modificación del Estatuto que implique la asunción de nuevas competencias sólo exigirá su aprobación por la mayoría absoluta de la Diputación General, observándose en lo demás lo previsto en el artículo anterior, así como el plazo de cinco años establecido en el artículo ciento cuarenta y ocho punto dos de la Constitución.
 
-Artículo cuarenta y cuatro.
+===== Artículo cuarenta y cuatro.
 
 La Comunidad Autónoma de La Rioja podrá acordar su incorporación a otra limítrofe, con características históricas, culturales y económicas comunes, mediante el procedimiento siguiente:
 
