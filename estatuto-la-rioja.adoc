@@ -568,8 +568,10 @@ b) El acuerdo favorable deberá ser ratificado en el plazo de seis meses por un 
 c) La propuesta de incorporación deberá ser aprobada por la Comunidad Autónoma en la que deba integrarse, en la forma en que disponga su Estatuto de Autonomía.
 
 d) La integración precisará, en todo caso, la aprobación de las Cortes Generales mediante Ley Orgánica.
-DISPOSICIONES ADICIONALES
-Primera.
+
+== DISPOSICIONES ADICIONALES
+
+=== Primera.
 
 De la cesión de rendimiento de tributos.
 
@@ -590,18 +592,22 @@ f) Impuesto sobre casinos, juegos y apuestas, con exclusión de las apuestas dep
 2. El contenido de esta disposición se podrá modificar mediante acuerdo del Gobierno con la Comunidad Autónoma, que será tramitado como proyecto de ley ordinaria. A estos efectos, la modificación de la presente disposición no se entendera como modificación del Estatuto.
 
 3. El alcance y condiciones de la cesión se estableceran por la Comisión Mixta, que, en todo caso, los referira a rendimientos en La Rioja. El Gobierno tramitara el acuerdo como Ley en el plazo de seis meses, a partir de la constitución del primer Consejo de Gobierno de La Rioja.
-Segunda.
+
+=== Segunda.
 
 De los enclaves territoriales.
 
 Podrán agregarse a la Comunidad Autónoma de La Rioja aquellos territorios que estuvieren enclavados en su totalidad dentro de la misma, mediante el cumplimiento de los requisitos que la Ley del Estado establezca.
-DISPOSICIONES TRANSITORIAS
-Primera.
+
+== DISPOSICIONES TRANSITORIAS
+
+=== Primera.
 
 De las competencias de la Diputación Provincial.
 
 De acuerdo con lo establecido en el artículo catorce del presente Estatuto, y a partir de la fecha de su entrada en vigor, las competencias actuales de la Diputación Provincial de La Rioja o las que en el futuro puedan ser atribuidas a las Diputaciones Provinciales, serán asumidas por la Comunidad Autónoma de La Rioja, a través de sus órganos competentes, una vez constituidos estos. Ello implicará el traspaso de sus bienes, derechos y obligaciones, cuyas inscripciones se harán de oficio.
-Segunda.
+
+=== Segunda.
 
 De la Diputación Provisional.
 
@@ -620,12 +626,14 @@ c) Las que se deriven del traspaso de competencias de la Administración del Est
 4. En caso de disolución anticipada de las Cortes Generales, los Diputados y Senadores elegidos en la provincia de La Rioja se entenderán prorrogados como miembros de la Diputación Provisional hasta la proclamación de los nuevos Diputados y Senadores que resulten elegidos.
 
 En el caso de vacantes que afecten a los Diputados provinciales, la sustitución se efectuará de acuerdo con la legislación sobre elecciones locales.
-Tercera.
+
+=== Tercera.
 
 Del Presidente provisional de la Comunidad Autónoma de La Rioja.
 
 El Presidente de la Diputación Provincial de La Rioja asumirá las funciones de Presidente de la Comunidad Autónoma hasta la elección del mismo, que se realizará en la misma forma que se dispone en los apartados uno y dos de la disposición transitoria séptima, sin que sea de aplicación el apartado tres.
-Cuarta.
+
+=== Cuarta.
 
 Del Consejo de Gobierno Provisional.
 
@@ -636,7 +644,8 @@ Del Consejo de Gobierno Provisional.
 a) Las que le atribuye el presente Estatuto, que se deriven del traspaso de competencias de la Administración del Estado.
 
 b) Las que actualmente correspondan a la Diputación Provincial.
-Quinta.
+
+=== Quinta.
 
 De las primeras elecciones.
 
@@ -653,14 +662,16 @@ Cuarta. Los candidatos se propondrán por los partidos políticos y por quienes 
 Quinta. La atribución de puestos en la Diputación a las distintas listas se efectuará siguiendo el orden de colocación en que aparecen en razón a los votos obtenidos, por aplicación del sistema D'Hont no teniéndose en cuenta aquellas listas que no hubiesen obtenido, por lo menos, el cinco por ciento de los votos válidos emitidos en toda la Comunidad Autónoma.
 
 Sexta. Se aplicarán de forma supletoria el Real Decreto-ley veinte/mil novecientos setenta y siete, de dieciocho de marzo, sobre Elecciones Generales, o la Ley Electoral vigente en ese momento para las elecciones a Cortes Generales.
-Sexta.
+
+=== Sexta.
 
 De la constitución de la Diputación General.
 
 1. Transcurridos diez días naturales a partir de la proclamación de los resultados definitivos de la elección, se constituira en el primer día hábil la Diputación General de La Rioja, presidida por una Mesa de edad, integrada por el electo presente de mas edad, como Presidente, que será asistido por dos Vicepresidentes, los que sigan en mas edad al anterior, y dos Secretarios, los dos miembros mas jóvenes de la Junta.
 
 2. Constituida esta Mesa de edad, se procederá a elegir la Mesa provisional, compuesta por un Presidente, dos Vicepresidentes y dos Secretarios. La votación será separada en número de tres, una para Presidente, otra para Vicepresidentes y otra para Secretarios. Serán electos el más votado en el primer caso y los dos primeros en orden a los puestos de Vicepresidentes y Secretarios. Los electores, en cada votación, sólo podrán señalar un nombre.
-Séptima.
+
+=== Séptima.
 
 De la elección del Presidente del Consejo de Gobierno.
 
@@ -671,7 +682,8 @@ En primera votación deberá obtener la mayoría absoluta de los miembros de la 
 2. Si efectuadas las citadas votaciones no se otorgase la confianza para la investidura, se tramitarán sucesivas propuestas, con el mismo u otro candidato, en la forma prevista en el párrafo anterior.
 
 3. Si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiera obtenido la confianza de la Diputación General, ésta quedará disuelta de pleno derecho, y, en tal caso, se procederá a la celebración de nuevas elecciones en el plazo de sesenta días.
-Octava.
+
+=== Octava.
 
 De las bases para el traspaso de servicios.
 
@@ -692,26 +704,30 @@ Las Comisiones Sectoriales trasladarán sus propuestas de acuerdo a la Comisión
 Sexta. Será título suficiente para la inscripción en el Registro de la Propiedad del traspaso de bienes inmuebles y derechos del Estado a la Comunidad Autónoma de La Rioja la certificación de la Comisión Mixta de los acuerdos gubernamentales debidamente promulgados.
 
 Séptima. La Comisión Mixta subsistirá hasta tanto no se hayan transferido a La Rioja la totalidad de los servicios correspondientes a las competencias asumidas.
-Novena.
+
+=== Novena.
 
 De los funcionarios.
 
 1. Serán respetados todos los derechos adquiridos de cualquier orden o naturaleza que correspondan a los funcionarios y demás personal adscrito al Estado, Diputación Provincial de La Rioja o a los Organismos e Instituciones publicas y que, por razón de las transferencias de servicios a la Comunidad Autónoma, hayan de depender en el futuro de ésta. La Comunidad Autónoma quedará subrogada en la titularidad de los contratos sometidos al Derecho administrativo y laboral.
 
 2. Estos funcionarios y personal quedaran sujetos a la legislación general del Estado y a la particular de La Rioja en el ámbito de su competencia.
-Décima.
+
+=== Décima.
 
 De la financiación.
 
 1. Mientras no se dicten disposiciones que permitan la financiación total de los servicios transferidos correspondientes a las competencias propias de la Comunidad Autónoma de La Rioja, el Estado contribuira a su sostenimiento partiendo de una cantidad igual al coste efectivo del servicio, actualizandola de acuerdo con las circunstancias, estando facultada la Comunidad Autónoma de La Rioja para no aceptar la transferencia de servicios que no cuenten con financiación suficiente.
 
 2. El alcance de tal financiación será determinado en cada momento por la Comisión Mixta de transferencias.
-Undécima.
+
+=== Undécima.
 
 Del Tribunal Económico-Administrativo.
 
 Entre tanto no se cree una jurisdicción económico-administrativa propia de la Comunidad Autónoma de La Rioja, las competencias de esta se ejercerán por los órganos del Estado.
-Duodécima.
+
+=== Duodécima.
 
 Del Impuesto de Lujo.
 
