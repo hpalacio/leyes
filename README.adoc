@@ -63,7 +63,7 @@ Esto tiene dos ventajas:
 ** Como _git_ muestra diferencias a nivel de líneas, permite ver frases completas que han sido modificadas.
 ** En _AsciiDoc_, los retornos de línea no implican un punto y aparte (tan solo punto y seguido), por lo que el formato original se mantiene en el HTML generado.
 * Para las listas se utiliza el lenguaje de _markup_.
-** *Ventaja*: el HTML generado tabula correctamente los ítems, lo que permite una mejor lectura incluso que la que muestra el propio B.O.R. en su página web.
+** *Ventaja*: el HTML generado tabula correctamente los ítems, lo que permite una mejor lectura incluso que la que muestra el propio B.O.E. en su página web.
 ** *Inconveniente*: en listas con letras, o con números a partir del segundo nivel en adelante, el _markup_ no permite anteponer el símbolo (número o letra) en el código fuente.
 No queda otra que usar un punto seguido de un espacio `. `) para cada ítem de una lista ordenada, lo que hace que se pierda dicho símbolo en el código fuente (aunque sale bien en el HTML generado).
 Por ejemplo:
@@ -74,14 +74,14 @@ image::img/lista-ordenada-nivel2.png[]
 
 En pocas palabras, consiste en:
 
-* Copiar el texto del B.O.R.
+* Copiar el texto del B.O.E.
 * Formatearlo en _AsciiDoc_ siguiendo las <<convenciones>>.
 * Generar el _commit_, usando:
 ** como autor a las Cortes Generales;
 ** como título, un resumen del cambio;
 ** como descripción, las motivaciones de la ley;
 ** como firmas, las de las personas que intervinien en él.
-* Modificar la fecha del _commit_ para que corresponda a la fecha de publicación en el B.O.R.
+* Modificar la fecha del _commit_ para que corresponda a la fecha de publicación en el B.O.E.
 Eso lo hago con un comando como este:
 +
 ....
