@@ -642,8 +642,9 @@ El Congreso habrá de pronunciarse expresamente dentro de dicho plazo sobre su c
 1. La iniciativa legislativa corresponde al Gobierno, al Congreso y al Senado, de acuerdo con la Constitución y los Reglamentos de las Cámaras.
 2. Las Asambleas de las Comunidades Autónomas podrán solicitar del Gobierno la adopción de un proyecto de ley o remitir a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea encargados de su defensa.
 3. Una ley orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de ley.
-En todo caso se exigirán no menos de 500.000 firmas acreditadas.
-No procederá dicha iniciativa en materias propias de ley orgánica, tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
+En todo caso, se exigirán 500.000 firmas acreditadas, y a las proposiciones de iniciativa legislativa popular les será en todo caso de aplicación lo dispuesto en el apartado 6 del artículo 134.
++
+No procederá dicha iniciativa para la aprobación o modificación de la Ley de Presupuestos Generales del Estado, ni en materias tributarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
 
 ===== Artículo 88
 
@@ -668,9 +669,13 @@ El Rey sancionará en el plazo de quince días las leyes aprobadas por las Corte
 
 ===== Artículo 92
 
-1. Las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos.
-2. El referéndum será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados.
-3. Una ley orgánica regulará las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en esta Constitución.
+1. Las decisiones políticas de especial trascendencia podrán ser sometidas a plebiscito de todos los ciudadanos.
+Esta consulta será convocada por el Rey, a propuesta del Presidente del Gobierno, previamente autorizado por el Congreso de los Diputados, o a iniciativa de quinientos mil electores.
+2. Podrá ser sometida a referéndum la derogación de leyes en vigor, cuando así lo soliciten ante la Mesa del Congreso de los Diputados quinientos mil electores.
+El resultado del referéndum será vinculante cuando haya participado en la votación la mayoría de quienes tengan derecho a hacerlo y haya sido aprobado por mayoría de los votos válidamente emitidos.
+No procederá esta iniciativa en materias tributarias, presupuestarias o de carácter internacional, ni en lo relativo a la prerrogativa de gracia.
+3. El plebiscito y el referéndum se realizarán en la misma fecha que los procesos electorales de ámbito nacional siempre que coincidan con el mismo año.
+4. Una ley orgánica regulará las condiciones y el procedimiento del plebiscito y de las distintas modalidades del referéndum previstas en la Constitución.
 
 === CAPÍTULO TERCERO
 
@@ -1281,7 +1286,7 @@ De la reforma constitucional
 
 ===== Artículo 166
 
-La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.
+La iniciativa de reforma constitucional se ejercerá en los términos previstos en el artículo 87.
 
 ===== Artículo 167
 
