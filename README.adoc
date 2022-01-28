@@ -39,10 +39,15 @@ image::img/git-ls-constitucion.png[]
 
 Cuando algún organismo o partido político sugiera algún cambio en la Constitución Española, puedo publicarlo como un _Pull request_, que es como llamamos los programadores a las solicitudes de cambio de código.
 
-Por ejemplo, el 16 de enero de 2020, y a petición de la vicepresidenta del Gobierno, la Real Academia Española emitió un informe sobre el lenguaje inclusivo en la C.E.
-Basándome en dicho informe, he creado un link:https://github.com/hpalacio/leyes/pull/1[_Pull request_ con las sugerencias de la R.A.E.] para mejorar el texto constitucional en ese sentido.
+Actualmente, existen varias propuestas de reforma de la Consititución admitidas a trámite por las Cortes que se pueden consultar en los link:https://github.com/hpalacio/leyes/pulls[_Pull requests_ abiertos]:
 
-Actualmente, existen varias propuestas de reforma de la Consititución que se pueden consultar el los link:https://github.com/hpalacio/leyes/pulls[_Pull requests_ abiertos].
+* link:https://github.com/hpalacio/leyes/pull/3[Protección de las personas con discapacidad]
+* link:https://github.com/hpalacio/leyes/pull/4[Participación ciudadana en decisiones trascendentes]
+* link:https://github.com/hpalacio/leyes/pull/5[Reintegración efectiva del Derecho Civil valenciano]
+* link:https://github.com/hpalacio/leyes/pull/8[Senador propio para la isla de Formentera]
+
+Otro ejemplo: el 16 de enero de 2020, y a petición de la vicepresidenta del Gobierno, la Real Academia Española emitió un informe sobre el lenguaje inclusivo en la C.E.
+Basándome en dicho informe, he creado un link:https://github.com/hpalacio/leyes/pull/1[_Pull request_ con las sugerencias de la R.A.E.] para mejorar el texto constitucional en ese sentido.
 
 == Metodología
 
