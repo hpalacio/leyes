@@ -41,11 +41,11 @@ Cuando algún organismo o partido político sugiera algún cambio en la Constitu
 
 Actualmente, existen varias propuestas de reforma de la Consititución admitidas a trámite por las Cortes que se pueden consultar en los link:https://github.com/hpalacio/leyes/pulls[_Pull requests_ abiertos]:
 
-- [x] link:https://github.com/hpalacio/leyes/pull/3[Protección de las personas con discapacidad] MERGED
-- [ ] link:https://github.com/hpalacio/leyes/pull/4[Participación ciudadana en decisiones trascendentes]
-- [ ] link:https://github.com/hpalacio/leyes/pull/5[Reintegración efectiva del Derecho Civil valenciano]
-- [ ] link:https://github.com/hpalacio/leyes/pull/8[Senador propio para la isla de Formentera]
-- [ ] link:https://github.com/hpalacio/leyes/pull/11[Garantizar el derecho al aborto]
+* https://github.com/hpalacio/leyes/pull/3[Protección de las personas con discapacidad] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/3?label=PR-3[PR #3 status,link=https://github.com/hpalacio/leyes/pull/3]
+* https://github.com/hpalacio/leyes/pull/4[Participación ciudadana en decisiones trascendentes] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/4?label=PR-4[PR #4 status,link=https://github.com/hpalacio/leyes/pull/4]
+* https://github.com/hpalacio/leyes/pull/5[Reintegración efectiva del Derecho Civil valenciano] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/5?label=PR-5[PR #5 status,link=https://github.com/hpalacio/leyes/pull/5]
+* https://github.com/hpalacio/leyes/pull/8[Senador propio para la isla de Formentera] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/8?label=PR-8[PR #8 status,link=https://github.com/hpalacio/leyes/pull/8]
+* https://github.com/hpalacio/leyes/pull/11[Garantizar el derecho al aborto] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/11?label=PR-11[PR #11 status,link=https://github.com/hpalacio/leyes/pull/11]
 
 Otro ejemplo: el 16 de enero de 2020, y a petición de la vicepresidenta del Gobierno, la Real Academia Española emitió un informe sobre el lenguaje inclusivo en la C.E.
 Basándome en dicho informe, he creado un link:https://github.com/hpalacio/leyes/pull/1[_Pull request_ con las sugerencias de la R.A.E.] para mejorar el texto constitucional en ese sentido.
