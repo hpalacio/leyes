@@ -7,7 +7,7 @@ Este repositorio recoge la ley fundamental de España (Constitución Española) 
 Cada cierto tiempo, suenan campanas sobre posibles modificaciones que deben hacerse a la Constitución Española (C.E.).
 Temas como la eliminación de la preferencia del varón sobre la mujer en la herencia de la Corona, discusiones sobre el término _nacionalidades_ del artículo 2, uso de lenguaje inclusivo, reforma del estado autonómico, etc.
 
-Desde su promulgación en 1978, ya ha habido dos modificaciones de la C.E.; sin embargo, no resulta especiamente fácil ver las diferencias con respecto al texto original.
+Desde su promulgación en 1978, ya ha habido varias modificaciones de la C.E.; sin embargo, no resulta especiamente fácil ver las diferencias con respecto al texto original.
 El Boletín Oficial del Estado (B.O.E.) publica las modificaciones de un modo parecido a este:
 
 [quote]
@@ -45,6 +45,7 @@ Actualmente, existen varias propuestas de reforma de la Consititución admitidas
 - [ ] link:https://github.com/hpalacio/leyes/pull/4[Participación ciudadana en decisiones trascendentes]
 - [ ] link:https://github.com/hpalacio/leyes/pull/5[Reintegración efectiva del Derecho Civil valenciano]
 - [ ] link:https://github.com/hpalacio/leyes/pull/8[Senador propio para la isla de Formentera]
+- [ ] link:https://github.com/hpalacio/leyes/pull/11[Garantizar el derecho al aborto]
 
 Otro ejemplo: el 16 de enero de 2020, y a petición de la vicepresidenta del Gobierno, la Real Academia Española emitió un informe sobre el lenguaje inclusivo en la C.E.
 Basándome en dicho informe, he creado un link:https://github.com/hpalacio/leyes/pull/1[_Pull request_ con las sugerencias de la R.A.E.] para mejorar el texto constitucional en ese sentido.
