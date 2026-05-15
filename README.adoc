@@ -39,7 +39,7 @@ image::img/git-ls-constitucion.png[]
 
 Cuando algún organismo o partido político sugiera algún cambio en la Constitución Española, puedo publicarlo como un _Pull request_, que es como llamamos los programadores a las solicitudes de cambio de código.
 
-Actualmente, existen varias propuestas de reforma de la Consititución admitidas a trámite por las Cortes que se pueden consultar en los link:https://github.com/hpalacio/leyes/pulls[_Pull requests_ abiertos]:
+Actualmente, existen varias propuestas de reforma de la Consititución admitidas a trámite por las Cortes que se pueden consultar en la lista de link:https://github.com/hpalacio/leyes/pulls[_Pull requests_]:
 
 * https://github.com/hpalacio/leyes/pull/3[Protección de las personas con discapacidad] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/3?label=PR-3[PR #3 status,link=https://github.com/hpalacio/leyes/pull/3]
 * https://github.com/hpalacio/leyes/pull/4[Participación ciudadana en decisiones trascendentes] image:https://img.shields.io/github/pulls/detail/state/hpalacio/leyes/4?label=PR-4[PR #4 status,link=https://github.com/hpalacio/leyes/pull/4]
